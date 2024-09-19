@@ -1,14 +1,14 @@
-# Welcome to Kingbo's Cybersecurity projects
+# Kingbo's Cybersecurity 
 
 ## SIEM Lab
 Brief description of the project, its purpose, and the cybersecurity problem it addresses.
 
-## Features
+## HoneyPot
 - Feature 1
 - Feature 2
 - Feature 3
 
-## Installation
+## Installation    
 ```bash
 # Installation steps here
 git clone https://github.com/yourusername/projectname.git
@@ -26,21 +26,3 @@ python main.py --option value
 - Requirement 1
 - Requirement 2
 - Requirement 3
-
-## Configuration
-Explain any configuration steps or files needed.
-
-## Security Considerations
-Outline important security considerations for users of your tool.
-
-## Contributing
-Guidelines for contributing to the project.
-
-## License
-Specify the license (e.g., MIT, GPL, etc.)
-
-## Disclaimer
-Include any necessary disclaimers about the use of your cybersecurity tool.
-
-## Contact
-Your contact information or how to reach out for questions/concerns.
