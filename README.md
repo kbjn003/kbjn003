@@ -1,6 +1,6 @@
-# [Project Name]
+# Welcome to Kingbo's Cybersecurity projects
 
-## Description
+## SIEM Lab
 Brief description of the project, its purpose, and the cybersecurity problem it addresses.
 
 ## Features
